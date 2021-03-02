@@ -19,7 +19,7 @@ In this project, we use data shared by Olist - a Brazilian e-commerce platfrom. 
 I'd like to thank my group mate Zoé Hance whom I worked with intensively throughout the project.
 
 ### Data source: 
-Raw data of Olist and detailed descriptions of the attributes were retrieved from this post on Kaggle: <a href="https://www.kaggle.com/olistbr/brazilian-ecommerce"> Brazilian E-Commerce Public Dataset by Olist </a> 
+Raw data of Olist and detailed descriptions of the attributes were retrieved from this post on Kaggle: <a href="https://www.kaggle.com/olistbr/brazilian-ecommerce"> Brazilian E-Commerce Public Dataset by Olist </a>.
 <br>
 Raw data of Brazil social-economic factors were loaded from Brazilian Institute of Geography and Statistics: 
-<a href="https://www.ibge.gov.br/en/statistics/social/income-expenditure-and-consumption/18704-summary-of-social-indicators.html?=&t=resultados"> household average income </a> and <a href="https://www.ibge.gov.br/en/statistics/social/population/18448-estimates-of-resident-population-for-municipalities-and-federation-units.html?edicao=21737&t=downloads"> population </a> by state 
+<a href="https://www.ibge.gov.br/en/statistics/social/income-expenditure-and-consumption/18704-summary-of-social-indicators.html?=&t=resultados"> household average income </a> and <a href="https://www.ibge.gov.br/en/statistics/social/population/18448-estimates-of-resident-population-for-municipalities-and-federation-units.html?edicao=21737&t=downloads"> population </a> by state.
