@@ -9,6 +9,7 @@ In this project, we use data shared by Olist - a Brazilian e-commerce platfrom. 
 - `Products`: category, description, size & weight of the product.
 - `Customers and sellers`: tracking id & shipping location.
 - `Order and shipping process`: number of items, tracking timestamp of the purchase & shipping, customer reviews (by score and text).
+
 In addition, Brazilian demographic data at state level is used for customer's social-economic context.
 
 ### Notebooks:
