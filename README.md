@@ -12,7 +12,7 @@ In this project, we use data shared by Olist - a Brazilian e-commerce platfrom. 
 
 ### Notebooks:
 - `Olist_Data_Prep.ipynb`: This notebook shows the pre-processing steps to clean the data.
-- `Olist_EDA_Feature_Engineering.ipynb`: To be updated. This notebook will show the exploratory analysis and feature engineering. 
+- `Olist_EDA_Feature_Engineering.ipynb`: This notebook shows the exploratory analysis and feature engineering. 
 - `Olist_Modeling.ipynb` : To be updated. This notebook will show the modeling step and results.
 
 ### Credit: 
