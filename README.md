@@ -9,14 +9,16 @@ In this project, we use data shared by Olist - a Brazilian e-commerce platfrom. 
 - `Products`: category, description, size & weight of the product.
 - `Customers and sellers`: tracking id & shipping location.
 - `Order and shipping process`: number of items, tracking timestamp of the purchase & shipping, customer reviews (by score and text).
+In addition, Brazilian demographic data at state level is used for customer's social-economic context.
 
 ### Notebooks:
 - `Olist_Data_Prep.ipynb`: This notebook shows the pre-processing steps to clean the data.
 - `Olist_EDA_Feature_Engineering.ipynb`: This notebook shows the exploratory analysis and feature engineering. 
 - `Olist_Modeling.ipynb` : To be updated. This notebook will show the modeling step and results.
+- Future update: Experiments with methods to treat imbalanced data in classification, including using synthetic data, class weights, sample weights and predicting probability approach.
 
 ### Credit: 
-I'd like to thank my group mate Zoé Hance whom I worked with intensively throughout the project.
+This is an extended version of a school group project at the University Paris Dauphine. I'd like to thank my group mate Zoé Hance whom I worked with intensively throughout the project.
 
 ### Data source: 
 Raw data of Olist and detailed descriptions of the attributes were retrieved from this post on Kaggle: <a href="https://www.kaggle.com/olistbr/brazilian-ecommerce"> Brazilian E-Commerce Public Dataset by Olist </a>.
