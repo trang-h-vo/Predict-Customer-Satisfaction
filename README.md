@@ -16,7 +16,6 @@ In addition, Brazilian demographic data at state level is used for customer's so
 - `Olist_Data_Prep.ipynb`: This notebook shows the pre-processing steps to clean the data.
 - `Olist_EDA_Feature_Engineering.ipynb`: This notebook shows the exploratory analysis and feature engineering. 
 - `Olist_Modeling.ipynb` : To be updated. This notebook will show the modeling step and results.
-- Future update: Experiments with methods to treat imbalanced data in classification, including using synthetic data, class weights, sample weights and predicting probability approach.
 
 ### Credit: 
 This is an extended version of a school group project at the University Paris Dauphine. I'd like to thank my group mate Zoé Hance whom I worked with intensively throughout the project.
