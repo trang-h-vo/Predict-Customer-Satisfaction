@@ -15,7 +15,7 @@ In addition, Brazilian demographic data at state level is used for customer's so
 ### Notebooks:
 - `Olist_Data_Prep.ipynb`: This notebook shows the pre-processing steps to clean the data.
 - `Olist_EDA_Feature_Engineering.ipynb`: This notebook shows the exploratory analysis and feature engineering. 
-- `Olist_Modeling.ipynb` : To be updated. This notebook will show the modeling step and results.
+- `Olist_Modeling.ipynb` : This notebook shows the modeling steps and result interpretation.
 
 ### Credit: 
 This is an extended version of a school group project at the University Paris Dauphine. I'd like to thank my group mate Zoé Hance whom I worked with intensively throughout the project.
